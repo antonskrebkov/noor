@@ -19,7 +19,7 @@ const Header = () => {
       </div>
       <div className="bg-white pt-2 pb-2.5 mobile:py-4">
         <img
-          src="/noor.webp"
+          src="noor.webp"
           className="mx-auto w-[116px] mobile:w-[167px] h-auto"
           alt="logo"
         />

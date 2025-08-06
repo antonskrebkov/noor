@@ -10,7 +10,7 @@ const Hero = () => {
         <div className="flex flex-col tablet:flex-row justify-center items-center gap-2.5">
           <div className="w-full mobile:w-3/5 tablet:w-[46%] my-[15px] mobile:my-[30px]">
             <div className="flex items-center justify-center mb-2 mobile:mb-[20px]">
-              <img className="max-w-[70px]" src="/stars.webp" alt="rating" />
+              <img className="max-w-[70px]" src="stars.webp" alt="rating" />
               <span className="font-gotham text-sm mobile:text-[16px] leading-7 ml-2.5 tracking-tighter">
                 103,743+ Happy Noor Customers!
               </span>
@@ -37,9 +37,9 @@ const Hero = () => {
                 </p>
                 <img
                   className="w-[208px] my-0 mx-auto"
-                  src="/payments.png"
+                  src="payments.png"
                   alt="pay methods"
-                ></img>
+                />
               </div>
             </div>
           </div>
